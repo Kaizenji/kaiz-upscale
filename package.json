@@ -1,0 +1,26 @@
+{
+  "name": "kaiz-upscale",
+  "version": "1.0.0",
+  "description": "A simple Node.js package for upscaling images using the Kaiz Upscale API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaizenji",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaizenji/kaiz-upscale.git"
+  },
+  "keywords": [
+    "image upscaler",
+    "kaiz-upscale",
+    "upscale images",
+    "image enhancement",
+    "upscale",
+    "remini"
+  ]
+}
