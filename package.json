@@ -1,7 +1,7 @@
 {
   "name": "kaiz-upscale",
-  "version": "1.0.0",
-  "description": "A simple Node.js package for upscaling images using the Kaiz Upscale API.",
+  "version": "1.0.1",
+  "description": "A simple Node.js package for upscaling images 2x.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
