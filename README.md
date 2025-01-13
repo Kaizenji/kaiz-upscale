@@ -1,10 +1,10 @@
-# kaiz-fbuid
+# kaiz-upscale
 
 A simple Node.js package for upscaling images 2x.
 
 ## Installation :
 ```bash
-npm install kaiz-upscale
+npm i kaiz-upscale
 ```
 
 ## Usage :
